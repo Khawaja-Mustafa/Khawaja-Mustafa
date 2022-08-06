@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khawaja-Mustafa
-- 👀 I’m interested in Programming, coding, learning new languages
-- 🌱 I’m currently learning programming, C++, Web development
-- 💞️ I’m looking to collaborate on numerous projects
+- 👀 I’m interested in Programming, coding, and learning new frameworks and languages
+- 🌱 I’m currently learning programming, C++, Web development, Ruby on Rails, and interested to learn more things.
+- 💞️ I’m looking to collaborate on numerous projects.
 - 📫 How to reach me, you can reach me through my Email, Facebook & Instagram (Khawaja Mustafa Shahid), Snapchat (KhawajaMustafa).
 
 <!---
