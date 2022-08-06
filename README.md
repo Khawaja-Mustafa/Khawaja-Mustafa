@@ -1,9 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# Hi 👋 My name is Khawaja Mustafa Shahid  
   
 
-### **<div align="center">I am a computer science student, doing bachelors. I have been learning to code for a couple of years.  🚀</div>**  
+### ROR |  Block Chain | Development | Graphic Designing  
+  
+
+#### I am a computer science student, doing bachelors. I have been learning to code for a couple of years.  🚀  
   
 
 - 🔭 I’m currently working on ROR Projects  
