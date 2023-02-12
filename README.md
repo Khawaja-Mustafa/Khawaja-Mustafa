@@ -4,14 +4,15 @@
 
 
 ### ROR | Block Chain | Development | Graphic Designing  
-I am a computer science student, doing bachelors. I have been learning to code for a couple of years. 🚀
-🔭 I’m currently working on ROR Projects
+A programmer, designer, and developer, who loves to learn new softwares, frameworks, tools, and actively developing projects on the go. Always eager to work and highly motivated towards enhancing my skills and knowledge. Participated in multiple IT courses such as WEB dev, Python, Ruby on Rails, and Unity. Overly hyped to contribute to the industry of Software Development. 🚀
 
-🌱 I’m currently learning Ruby on Rails and App Development
+🔭 I’m currently working on projects on the go
 
-❓ Ask me about anything related to Web Development, Ruby on Rails and related technologies
+🌱 I’m currently learning Unity and multiple other frameworks
 
-⚡ Fun fact: I use tabs over spaces  
+❓ Ask me about anything related to Web Development, Ruby on Rails, Unity, AR and related technologies
+
+⚡ Fun fact: Like Netflix series I can complete a whole course in a single day :)
   
 
 
