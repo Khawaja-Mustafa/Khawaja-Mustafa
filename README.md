@@ -3,7 +3,7 @@
 
 
 
-### Tech & Software Enthusiast | Unity | ROR | Developer 
+### Tech & Software Enthusiast | Unity | ROR | Flutter | Developer 
 A programmer, designer, and developer, who loves to learn new softwares, frameworks, tools, and actively developing projects on the go. Always eager to work and highly motivated towards enhancing my skills and knowledge. Participated in multiple IT courses such as WEB dev, Python, Ruby on Rails, and Unity. Overly hyped to contribute to the industry of Software Development. 🚀
 
 🔭 I’m currently working on projects on the go
