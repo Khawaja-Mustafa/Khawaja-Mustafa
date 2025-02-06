@@ -39,6 +39,8 @@ A programmer, designer, and developer, who loves to learn new softwares, framewo
 
 ## Languages and Tools  
 <div align="center">  
+<img style="margin: 10px" src="https://media.sketchfab.com/models/2afd04b26ca64c6b8392f75e217ffdb9/thumbnails/b8b7fd406e624b27bcf5d22af1857ac0/6fc6917029464e18aef80d4f82f479a4.jpeg" alt="Unity" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png?f=webp&w=256" alt="Unity" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
